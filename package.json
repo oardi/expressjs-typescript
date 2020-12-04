@@ -1,7 +1,7 @@
 {
-	"name": "express-ts",
+	"name": "expressjs-typescript-typeorm-postgres",
 	"version": "1.0.0",
-	"description": "",
+	"description": "expressjs-typescript-typeorm-postgres",
 	"main": "index.js",
 	"scripts": {
 		"start": "node dist/app.js",
