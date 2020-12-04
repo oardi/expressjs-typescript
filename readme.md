@@ -1,5 +1,5 @@
 # Expressjs API Template
-Simple Expressjs v.4 Typescript Starter Template 
+Expressjs Typescript TypeORM Postgress Starter 
 
 ## Included
 * expressjs 4
