@@ -2,7 +2,10 @@
 Simple Expressjs v.4 Typescript Starter Template 
 
 ## Included
-* express 4
+* expressjs 4
+* typescript
+* typeorm
+* postgres
 * nodemon
 * middleware logger
 * urlencoded enabled
