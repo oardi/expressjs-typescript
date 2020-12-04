@@ -16,7 +16,7 @@ createConnection().then(connection => {
 		res.send('hello');
 	})
 
-	app.get('/company', async (req: Request, res: Response) => {
+	app.get('/companies', async (req: Request, res: Response) => {
 		const companies = await companyRepository.find();
 		res.send(companies);
 	});
